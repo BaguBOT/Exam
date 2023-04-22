@@ -20,11 +20,11 @@ namespace indinok
             {
             Otdel = new List<Data>
             {
-                new Data(new Otdel("Отдел покраски"),RandomInt),
-                new Data(new Otdel("Отдел завода "),RandomInt),
-                new Data(new Otdel("Отдел еды"),RandomInt),
-                new Data( new Otdel("Отдел книг"),RandomInt),
-                new Data( new Otdel("Отдел корма "),RandomInt)
+                new Data(new Otdel("покраски"),RandomInt),
+                new Data(new Otdel("завода "),RandomInt),
+                new Data(new Otdel("еды"),RandomInt),
+                new Data( new Otdel("книг"),RandomInt),
+                new Data( new Otdel("корма "),RandomInt)
 
             };
             }
