@@ -23,7 +23,8 @@ namespace indinok
                 new Data(new Otdel("Отдел покраски"),RandomInt),
                 new Data(new Otdel("Отдел завода "),RandomInt),
                 new Data(new Otdel("Отдел еды"),RandomInt),
-                new Data( new Otdel("Отдел книг"),RandomInt)
+                new Data( new Otdel("Отдел книг"),RandomInt),
+                new Data( new Otdel("Отдел корма "),RandomInt)
 
             };
             }
