@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indinok", "indinok.csproj", "{71E35946-360A-4B1E-AD39-36F2EC6DEE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E35946-360A-4B1E-AD39-36F2EC6DEE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E35946-360A-4B1E-AD39-36F2EC6DEE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E35946-360A-4B1E-AD39-36F2EC6DEE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E35946-360A-4B1E-AD39-36F2EC6DEE96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1045C80A-4ED2-42E5-8B39-F316B8E5B88E}
+	EndGlobalSection
+EndGlobal
